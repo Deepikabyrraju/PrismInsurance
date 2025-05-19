@@ -1,9 +1,12 @@
 # PrismInsurance
+1.Project Title/ Headline
 Prism Insurance: Business Performance Dashboard
 An interactive Power BI dashboard that visualizes key metrics of Prism Insurance company, focusing on policy performance, revenue trends, customer segmentation, and agent contributions.
 
+2.Short Description / Purpose
 The Prism Insurance Dashboard provides a clear and insightful view into the insurance business’s key performance indicators. It helps business stakeholders quickly identify trends in customer demographics, sales revenue, claim amounts, and agent effectiveness across different regions and time periods.
 
+3.Tech Stack
 The dashboard was built using the following tools and technologies:
 
 Power BI Desktop – Main data visualization platform used for report creation.
@@ -16,10 +19,11 @@ Data Modeling – Relationships established among tables (customer, policy, clai
 
 File Format – .pbix for development and .png for dashboard previews.
 
+4.Data Source
 Source: Sample dataset provided by Maven Analytics (for learning purposes)
 The dataset includes detailed records about insurance policies, including customer demographics, policy types, premiums, revenue, and claim-related data. It allows for regional and categorical segmentation to drive business insights.
 
-
+5.Features/Highlights
 Business Problem:
 Prism Insurance needed a centralized view to track sales performance, claims, and customer demographics for better decision-making.
 
@@ -34,7 +38,10 @@ Slicers for filtering by region, gender, age group, and policy type
 
 Charts: Bar charts, pie charts, and line graphs to highlight performance trends
 
-Drill-through and tooltips for detailed insights
+Drill-through and tooltips for detailed insights.
+
+6.Screenshots/Demos
+show what the dashboard looks like -(https://github.com/Deepikabyrraju/PrismInsurance/blob/main/PrismInsurance.png)
 
 
 
