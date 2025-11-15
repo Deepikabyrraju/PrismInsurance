@@ -48,16 +48,8 @@ Drill-through and tooltips for detailed insights.
 
 6.Screenshots/Demos
 
-show what the dashboard looks like -(https://github.com/Deepikabyrraju/PrismInsurance/blob/main/PrismInsurance.png)
-
-
-
-
-
-
-
-
-
+show what the dashboard looks like -
+<img width="1450" height="799" alt="Screenshot 2025-11-15 111206" src="https://github.com/user-attachments/assets/044f6987-2387-4bd3-bbee-93a019d0f973" />
 
 
 
