@@ -4,6 +4,7 @@ Prism Insurance: Business Performance Dashboard
 An interactive Power BI dashboard that visualizes key metrics of Prism Insurance company, focusing on policy performance, revenue trends, customer segmentation, and agent contributions.
 
 2.Short Description / Purpose
+
 The Prism Insurance Dashboard provides a clear and insightful view into the insurance business’s key performance indicators. It helps business stakeholders quickly identify trends in customer demographics, sales revenue, claim amounts, and agent effectiveness across different regions and time periods.
 
 3.Tech Stack
